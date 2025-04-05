@@ -1,7 +1,7 @@
 Go Fiber
 ========
 
-My Journey learing Go Fiber
+My Journey learing Go [Fiber](https://github.com/gofiber/fiber)
 
 Install [Air](https://github.com/air-verse/air)
 -----------
